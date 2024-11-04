@@ -42,3 +42,12 @@ To get a local copy up and running follow these simple steps:
 1. Clone the repository
    ```bash
    git clone https://github.com/shahinsk17/Personal_Portfolio.git
+
+    
+2. Install Dependencies: Install the required dependencies using npm (Node Package Manager):
+   ```bash
+   npm install
+
+3. To run
+   ``` bash
+   npm run dev
